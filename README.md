@@ -21,4 +21,3 @@ Series create a layer for social communication, a much-needed human discussion. 
 
 From the above, we can conclude that there were 1.16 times fewer movies produced in 2020 than TV shows. In 2021, there is an average of 1.44 TV shows per movie, but judging by the trend, that number will increase.
 
-Translated with www.DeepL.com/Translator (free version)
